@@ -21,14 +21,16 @@
 
 # GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eternitypain&show_icons=true&theme=dark&locale=en" alt="eternitypain" /></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eternitypain&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)
+
 
 
 # My Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eternitypain&layout=donut-vertical)](https://github.com/eternitypain/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eternitypain&layout=donut-vertical&theme=dark)](https://github.com/eternitypain/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eternitypain)](https://github.com/eternitypain/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eternitypain&theme=dark)](https://github.com/eternitypain/github-readme-stats)
 
 # Activity
 
