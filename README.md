@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 
+
 ### Languages and Tools:
 
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -26,6 +27,8 @@
 # My Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eternitypain&layout=donut-vertical)](https://github.com/eternitypain/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eternitypain)](https://github.com/eternitypain/github-readme-stats)
 
 # Activity
 
